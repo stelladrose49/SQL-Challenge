@@ -1,6 +1,13 @@
 # SQL-Challenge
 
+The EmployeeSQL folder contains two SQL files (table_schemata.sql and employee-stats.sql):
+
+The table_schemata.sql file builds a relational database which contains tables that hold employees related data from imported csv files. Relationships are defined between tables and columns using primary keys, composite keys and foreign keys.
+The employee-stats.sql file quries the desired employee information.
 I have included an Entity Relationship Diagram (ERD) or provided table schemas for all tables, ensuring a clear visualization of the data structure.
+
+Please see my Entity Relationship Diagram for a preview of the data:
+<img width="914" alt="Screenshot 2023-12-02 at 9 51 35 PM" src="https://github.com/stelladrose49/SQL-Challenge/assets/141170388/cd898409-72d4-418c-a286-467d537d704b">
 
 I've meticulously defined all required columns for each table to ensure data completeness, set the correct data types for each column, prioritizing data accuracy, established Primary Keys for every table, allowing for unique identification of records, referenced related tables and implemented Foreign Keys to maintain data integrity, utilized the NOT NULL condition where necessary, enhanced data quality and accurately defined the length of values for each column, ensuring consistency in data representation.
 
